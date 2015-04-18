@@ -4,11 +4,11 @@ Shadow theme for the GIMP
 
 Authors & License
 -----------------
-"Shadow theme" was based in the Flat Themes that were created by Andrew Pullins - http://android272.deviantart.com/ 
+"Shadow theme" was based in the Flat Themes by Andrew Pullins - http://android272.deviantart.com/ 
 
-The "Shadow theme" is modification was created by AndeOn.
+The "Shadow theme" is just a small modification created by AndeOn.
 
-Special thanks to artist Mozart Couto by testing and choice of colors.
+Special thanks to artist Mozart Couto (testing and choice of colors).
 
 Licensed under the GNU GENERAL PUBLIC LICENSE, Version 2
 
