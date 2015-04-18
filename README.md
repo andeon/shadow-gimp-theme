@@ -22,6 +22,11 @@ Bonus
 -----
 Copy the splashes folder into ~/.gimp-2.8/ to got a nicer splash to GIMP
 
+Links
+-----
+[![Graphics by GIMP](http://www.gimp.org/images/gfx_by_gimp.png)](http://www.gimp.org/)
+
+
 Notes
 -----
 The theme works better on unity Ubuntu desktop and with dark themes.
