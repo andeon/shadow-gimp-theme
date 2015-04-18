@@ -1,8 +1,6 @@
-# shadow-gimp-theme
-
 Shadow theme for the GIMP
 =================================
-![Shadow theme](https://github.com/andeon/Kosette-Transitions/blob/master/screenshot.jpg)
+![Shadow theme](https://github.com/andeon/shadow-gimp-theme/blob/master/screenshot.jpg)
 
 Authors & License
 -----------------
